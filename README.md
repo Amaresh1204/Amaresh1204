@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amaresh1204
+- 👋 Hi, I’m K.Amaresh Srujan Gupta
 - 👀 I’m interested in Full Stack Web Devolepment
 - 🌱 I’m currently learning App Devolepment
 - 💞️ I’m looking to collaborate on ...
